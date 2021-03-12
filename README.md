@@ -10,7 +10,11 @@ Use your biolink Link as your business card , and display all your channels: Onl
 
 
 # SCREENSHOTS
-![Biolink](screenshot.png)
+<div align="center">
+<img src="screenshot.png"/> 
+</div>
+
+
 
 
 # -FEATURES-
@@ -34,7 +38,7 @@ Use your biolink Link as your business card , and display all your channels: Onl
 
  
 # AVAILABLE ON
-<div align="center">
-<img src="ps.png"/> 
-</div>
+<p align="center">
+    <img src="ps.png" alt="playstore" width="400" height="400" />
+</p>
 
