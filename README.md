@@ -1,5 +1,8 @@
 # Biolink
-### Multiple Links in a single URL
+<div align="center">
+<h2> Multiple Links in a single URL</h2>
+</div>
+
 ![Biolink](biolink.gif)
 Instagram only gives you one link in bio. You can add multiple links for your Instagram Bio and optimise your Instagram traffic by using biolink.
 Use your biolink Link as your business card , and display all your channels: Online Store, blogs, websites, other social media (fb, line, twitter, youtube, etc.), WhatsApp links, telephone links, chat line links and so on. 
