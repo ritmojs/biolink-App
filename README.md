@@ -11,7 +11,7 @@ Use your biolink Link as your business card , and display all your channels: Onl
 
 # SCREENSHOTS
 <div align="center">
-<img src="screenshots.png"/> 
+<img src="screentshots.png"/> 
 </div>
 
 
