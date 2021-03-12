@@ -7,6 +7,12 @@
 Instagram only gives you one link in bio. You can add multiple links for your Instagram Bio and optimise your Instagram traffic by using biolink.
 Use your biolink Link as your business card , and display all your channels: Online Store, blogs, websites, other social media (fb, line, twitter, youtube, etc.), WhatsApp links, telephone links, chat line links and so on. 
 
+
+
+# SCREENSHOTS
+![Biolink](screenshot.png)
+
+
 # -FEATURES-
 
 ### ONE BIO LINK & MULTIPLE LINKS
@@ -27,3 +33,8 @@ Use your biolink Link as your business card , and display all your channels: Onl
 -Know exactly the power of one link having all links.
 
  
+# AVAILABLE ON
+<div align="center">
+<img src="ps.png"/> 
+</div>
+
